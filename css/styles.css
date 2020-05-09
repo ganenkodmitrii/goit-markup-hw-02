@@ -52,12 +52,11 @@ a {
   line-height: 1.2;
 }
 
-.logo-span:hover,
-.logo-span:focus {
-  color: var(--accent-color);
-}
+/* .logo-accent:hover,
+.logo-accent:focus {
+} */
 
-.logo-span {
+.logo-accent {
   color: #000000;
 }
 
@@ -208,7 +207,7 @@ a {
 .footer {
   background-color: var(--secondary-grey-color);
 }
-.footer-span {
+.footer-accent {
   color: var(--primary-white-color);
 }
 
